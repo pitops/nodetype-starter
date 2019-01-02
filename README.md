@@ -1,5 +1,7 @@
 ## NodeJS + Typescript Starter for APIs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pitops/nodetype-starter.svg)](https://greenkeeper.io/)
+
 Contains the following
 
 * Express
